@@ -58,22 +58,22 @@ The system uses a webcam to detect body posture and calculate push-ups in real-t
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](/login.png)
 
 ### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ### 🎥 Camera Detection
-![Camera](screenshots/camera.png)
+![Camera](/camera.png)
 
 ### 📊 Workout Saved Popup
-![Saved](screenshots/saved.png)
+![Saved](/saved.png)
 
 ### 📜 History Page
-![History](screenshots/history.png)
+![History](/history.png)
 
 ### 🗄️ Database
-![Database](screenshots/database.png)
+![Database](/database.png)
 
 ---
 
